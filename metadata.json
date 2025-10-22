@@ -1,0 +1,5 @@
+{
+  "name": "Tech Stack Visualizer",
+  "description": "An interactive, multi-layered canvas to visualize the tech ecosystem. Zoom through categories, tools, and example projects with smooth, Google Maps-style transitions and animations.",
+  "requestFramePermissions": []
+}
