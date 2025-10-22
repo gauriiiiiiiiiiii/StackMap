@@ -1,15 +1,7 @@
 # 🌌 StackMap: Interactive Tech Stack Visualizer
 > A Dynamic Force-Directed Visualization of Modern Technology Stacks built with React, TypeScript, and D3.js
 ---
-## Quick Start 🚀
-Install dependencies and run the dev server:
-```bash
-npm install
-npm run dev     # start development server
-npm run build   # build for production
-```
----
-## 🚀 Quick Glimpse
+## Quick Glimpse 🚀
 - **Interactive Visuals:** D3.js force simulation brings tech to life.
 - **React + TypeScript:** Modern, robust, and scalable.
 - **Tailwind CSS:** Sleek, responsive, & stylish.
